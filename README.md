@@ -12,7 +12,7 @@ Usando a biblioteca **`os`** do Python para interagir com o sistema operacional 
 Este arquvio README descreve uma Contextualização breve e geral do código desmonstrado.
 
 1. **Ping Simples** — Pode ser usado para Pingar diretamente um HOST ou IP por vez, escolhendo o número de dísparos de Pacotes para avaliação de tempo de resposta e comunicação entre o Dispositivo Nativo e o Destino final.
-2. **Ping Múltiplo** — Possibilita de leitura de Arquivos contendo todos os Hosts a serem testados na Empresa, sendo possível utilizá-lo em rotinas de controle e Teste de Rede.
+2. **Ping Múltiplo** — Possibilita de leitura de Arquivos ( No exemplo, [hosts.txt](./Pings_Códigos/hosts.txt) ),  contendo todos os Hosts a serem testados na Empresa, sendo possível utilizá-lo em rotinas de controle e Teste de Rede.
 
 ---
 
