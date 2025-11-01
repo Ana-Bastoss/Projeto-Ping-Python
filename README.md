@@ -1,6 +1,6 @@
 # Ping Simples e Ping Múltiplo com Biblioteca OS no Python
 <p align="center">
-  <img src="Pings_Códigos/bk.jpeg" alt="Imagem não carregada :(" width="650"/>
+  <img src="Pings_Códigos/bk.png" alt="Imagem não carregada :(" width="650"/>
 </p>
 
 Usando a biblioteca **`os`** do Python para interagir com o sistema operacional e realizar testes de *conectividade de rede* através do comando `ping`.
