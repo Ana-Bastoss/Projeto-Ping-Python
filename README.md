@@ -1,14 +1,15 @@
 # Ping Simples e Ping Múltiplo com Biblioteca OS no Python
 <p align="center">
-  <img src="Pings_Códigos/bk.jpeg" alt="Imagem não carregada :(" width="300"/>
+  <img src="Pings_Códigos/bk.jpeg" alt="Imagem não carregada :(" width="650"/>
 </p>
-Usando a biblioteca **`os`** do Python para interagir com o sistema operacional e realizar testes de **conectividade de rede** através do comando `ping`.
+
+Usando a biblioteca **`os`** do Python para interagir com o sistema operacional e realizar testes de *conectividade de rede* através do comando `ping`.
 
 ---
 
 ## Resumo
 
-Este arquvio README demonstra uma visão geral do código desmontrado.
+Este arquvio README descreve uma Contextualização breve e geral do código desmonstrado.
 
 1. **Ping Simples** — Pode ser usado para Pingar diretamente um HOST ou IP por vez, escolhendo o número de dísparos de Pacotes para avaliação de tempo de resposta e comunicação entre o Dispositivo Nativo e o Destino final.
 2. **Ping Múltiplo** — Possibilita de leitura de Arquivos contendo todos os Hosts a serem testados na Empresa, sendo possível utilizá-lo em rotinas de controle e Teste de Rede.
@@ -36,7 +37,7 @@ O objetivo é compreender a interação entre a Linguagem **Python** e o **Siste
 ## Ferramentas utilizadas
 
 - PyCharm --V 2025.23;
-- Pyhton --V 3.12.7;;  
+- Pyhton --V 3.12.7;
 
 ---
 
