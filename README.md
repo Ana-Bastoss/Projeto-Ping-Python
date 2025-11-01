@@ -61,5 +61,5 @@ A partir desses resultados, é possível medir:
 
 ## Códigos
 
-[📨 Ping Simples](./pingsimples.py)  
-[📦 Ping Múltiplo](./pingmultiplo.py)
+[📨 Ping Simples](./Pings_Códigos/pingsimples.py)  
+[📦 Ping Múltiplo](./Pings_Códigos/pingmultiplo.py)
